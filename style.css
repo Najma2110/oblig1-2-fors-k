@@ -1,0 +1,49 @@
+.navbar{
+    list-style-type: none;
+    text-align: center;
+    margin-top:30px;
+}
+p{
+    font-size: 24px;
+}
+ul li{
+    font-size: 20px;
+}
+.navbar li{
+    display: inline;
+}
+.navbar li a{
+    text-decoration: none;
+    color:#000;
+    margin:0 8px;
+    font-size: 25px;
+    font-weight: bold;
+}
+header img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    float: left;
+    margin-right: 30px;
+}
+header p{
+    font-size: 22px;
+    letter-spacing: 1px;
+    line-height: 1.7;
+}
+header ul li{
+    font-size: 20px;
+}
+/* portfolio */
+.project{
+    margin-bottom: 10em;
+}
+.project p{
+    font-size: 24px;
+}
+.project img {
+    width: 400px;
+    height: 500px;
+    object-fit: cover;
+
+}
